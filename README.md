@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @EfremovaSvetlana
+<br><br>
 - Connect with me: \
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-
-###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+<br><br>
+- Data Science:\
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 <br><br>
 <h3>My Repositories</h3>
 
