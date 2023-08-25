@@ -3,6 +3,19 @@
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+<br><br>
+<h3>My Repositories</h3>
+
+<tr>
+      <td><a href="https://github.com/EfremovaSvetlana/Yandex_Praktikum_Portfolio"><b>Ya.Praktikum: Data-Science Projects</b></a></td>
+     </tr>
+  </tbody>
+</table>
+
+
 [linkedin]: https://www.linkedin.com/in/светлана-ефремова-112a1486
 [telegram]: https://t.me/coolsunray
 <!---
