@@ -10,7 +10,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 <h3>My Repositories</h3>
 
 <tr>
-      <td><a href="https://github.com/EfremovaSvetlana/Yandex_Praktikum_Portfolio"><b>Ya.Praktikum: Data-Science Projects</b></a></td>
+      <td><a href="https://github.com/EfremovaSvetlana/Yandex_Praktikum_Portfolio/blob/main/README.md"><b>Ya.Praktikum: Data-Science Projects</b></a></td>
      </tr>
   </tbody>
 </table>
